@@ -22,3 +22,4 @@ A glassmorphism icon with hover effects to improve all knowlegde about glassmorp
 [![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&labelColor=black)](https://github.com/JuniorMacedo91)
 
 ## Check out the Web Page:
+https://juniormacedo91.github.io/glassmorphism-icon-hover/
