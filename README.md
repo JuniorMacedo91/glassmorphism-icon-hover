@@ -1,21 +1,21 @@
 # glassmorphism-icon-hover
 
-## Description:
-A glassmorphism icon with hover effects to improve all knowlegde about glassmorphism making a great layout.
+## Descrição:
+Criação de ícones com efeito glassmorphism para tornar um layout diferenciado e aprimorar mais as técnicas em CSS.
 
-## Techniques:
+## Técnicas:
  - [x] Flexbox;
  - [x] Glassmorphism;
  - [x] Box-Shadow;
- - [x] Hover and Transition effects;
+ - [x] Hover e Transition effects;
 
-## Project:
+## Projeto:
 
 <p align="center">
   <img src="glass-menu.gif" width="800px">
 </p>
 
-## Technologies:
+## Tecnologias:
 
 [![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML5&labelColor=black)](https://github.com/JuniorMacedo91)
 
